@@ -40,11 +40,11 @@ const EmpListing = () => {
         <div className="container">
             <div className="card">
                 <div className="card-title">
-                    <h2>Employee</h2>
+                    <h2>Employee Listing</h2>
                 </div>
                 <div className="card-body">
                     <div className="divbtn">
-                        <Link to="employee/create" className="btn btn-success">Add New (+)</Link>
+                        <Link to="/employee/create" className="btn btn-success">Add New (+)</Link>
                     </div>
                     <table className="table table-bordered">
                         <thead className="bg-dark text-white">
