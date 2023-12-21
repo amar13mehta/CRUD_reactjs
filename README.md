@@ -1,3 +1,14 @@
+![Screenshot (365)](https://github.com/amar13mehta/CRUD_reactjs/assets/57030863/306a795c-862e-49ce-963b-971ec59d7f1a)
+![Screenshot (366)](https://github.com/amar13mehta/CRUD_reactjs/assets/57030863/560cf1c4-9cfc-41f9-be29-6feb05c9f90a)
+![Screenshot (367)](https://github.com/amar13mehta/CRUD_reactjs/assets/57030863/6a3b8d4f-f09f-41ed-87c8-1a4944e39fa5)
+
+
+Description -
+Built with React.js and Bootstrap, this project implements basic CRUD operations for managing employee data. The user-friendly interface ensures seamless navigation, while a JSON server serves as the database, enhancing data persistence. Enjoy a responsive and dynamic web application for effortless creation, retrieval, updating, and deletion of employee records.
+
+Tech Stack used:- Reactjs, Bootstrap
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
